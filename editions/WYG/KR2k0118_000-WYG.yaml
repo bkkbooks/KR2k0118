@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR2k0118/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書史部十一
+  hash: sha256:5f8ab01fbfc809cc911a707e5aa22577e1ed198056f701795ddffcd84b7bc12f
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0118_WYG_000-1a, image: WYG0590/WYG0590-0013a.png}
+body:
+  text: 夢粱錄地理類八雜記之屬提要臣等謹案夢粱錄二十巻宋呉自牧撰自牧錢塘人是書全用東京夢華録之體以紀南宋郊廟宫殿下至百工雜戲之事周宻武林舊事序云欲如孟元老夢華而近雅固謂夢華録不足於雅馴矣而自牧是書之俚俗殆有甚於夢華録者然其言得自見聞頗為質實典章文物於是可徵與武林舊事詳略互見實可資以稽考故事首有自序云緬懷往事殆猶夢也故名夢粱録末署甲戌嵗中秋日書考甲戌為宋度宗咸淳十年其時宋未亡也意甲戌字傳寫舛訛歟新城王士禎集載是書跋云夢粱録二十巻不著名氏葢士禎所見抄本又脱此序故不知為自牧所撰今檢永樂大典所引亦題自牧之名自屬無誤特其仕履則已不可考耳乾隆四十三年五月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀夢粱録原序昔人卧一炊頃而平生事業敭歴皆遍及覺則依然故吾始知其為夢也因謂之黄粱夢矧時異事殊城池苑囿之富風俗人物之盛焉保其常如疇昔哉緬懐往事殆猶夢也名曰夢粱録云脱有遺闕識者幸改正之毋哂甲戌嵗中秋日錢塘吳自牧書
+  hash: sha256:04388d29c9ca33cb66b69cf0396070788450127b33706295ba0e9f7b714295e5
+  markers:
+  - {type: page-break, offset: 294, content: '', id: KR2k0118_WYG_000-3a, image: WYG0590/WYG0590-0014c.png}
+metadata:
+  title: 夢粱錄
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:46:13.971001'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR2k0118/KR2k0118_000.txt
+hash: sha256:05e1d7d89bba24f2a9f840da40942945cd9b8574f0c0b5fe50add252fbca80f9
